@@ -1,12 +1,12 @@
 +++
 title = "Hello World"
 date = "2022-03-30T00:53:04-07:00"
-author = ""
-authorTwitter = "" #do not include @
+author = "Applimade"
+authorTwitter = "applimade" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
-description = ""
+description = "Hello world this is applimade"
 showFullContent = false
 readingTime = false
 hideComments = false
