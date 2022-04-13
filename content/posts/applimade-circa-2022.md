@@ -1,12 +1,12 @@
 +++
-title = "Hello World"
+title = "Applimade circa 2022"
 date = "2022-03-30T00:53:04-07:00"
 author = "Applimade"
 authorTwitter = "applimade" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
-description = "Hello world this is applimade"
+description = "Announcing Applimade apps made for you! With a mission to build applications to make your life and business better."
 showFullContent = false
 readingTime = false
 hideComments = false

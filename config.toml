@@ -1,6 +1,7 @@
-baseurl = "/"
+baseurl = "https://applimade.com/"
 languageCode = "en-us"
 theme = "ananke"
+title = "Applimade - apps made for you!"
 paginate = 5
 
 [params]
