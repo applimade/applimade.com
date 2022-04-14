@@ -10,19 +10,19 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = true
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -41,8 +41,8 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator = "applimade"
+  site = "https://applimade.com"
 
 [languages]
   [languages.en]
