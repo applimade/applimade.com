@@ -1,5 +1,5 @@
 +++
-title = "Applimade circa 2022"
+title = "Applimade building apps for YOU"
 date = "2022-03-30T00:53:04-07:00"
 author = "Applimade"
 authorTwitter = "applimade" #do not include @
